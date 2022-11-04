@@ -6,6 +6,11 @@ class AverageDoubleListsTest {
 
     @Test
     void count() {
+        //Given
+
+        //When
+
+        //Then
         assertEquals(null, "");
     }
 

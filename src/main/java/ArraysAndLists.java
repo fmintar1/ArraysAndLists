@@ -5,10 +5,8 @@ public class ArraysAndLists {
 
     public static void main(String[] args) {
         ArraysAndLists mainObj = new ArraysAndLists();
-
         mainObj.doArrayAnalysis();
         mainObj.doArrayListAnalysis();
-
         mainObj.doArrayLoading();
     }
 
